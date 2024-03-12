@@ -50,7 +50,7 @@ description: changelog tracking progress and other important notes to self.
 - First iteration; wordpess site
 - Soundcloud player
 
-## Getting Started with Create React App
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
