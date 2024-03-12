@@ -1,6 +1,6 @@
 {
   "name": "ioav.tech",
-  "version": "1.0.0",
+  "version": "0.4.4",
   "description": "website for audiovisual project",
   "main": "index.js",
   "scripts": {
